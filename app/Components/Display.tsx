@@ -6,7 +6,7 @@ import { IoIosArrowRoundBack } from "react-icons/io";
 const Display = () => {
   return (
     <div>
-      <div className="  mt-10 w-full px-3  lg:w-[85%] bg-red-00 lg:mr-[1rem] grid grid-cols-1 md:mr-[3rem] md:grid-cols-2 lg:grid-cols-3 gap-3">
+      <div className="  mt-10 w-full px-3 lg:mr-[1rem] grid grid-cols-1 md:mr-[3rem] md:grid-cols-2 lg:grid-cols-3 gap-3">
         <DisplayCard />
         <DisplayCard />
         <DisplayCard />
